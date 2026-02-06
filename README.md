@@ -1,2 +1,2 @@
 # Portfolio-pour-le-Fondation-Registre-du-Cancer
-Analyse de données avec R (Projets d'exploration et de modèles statistiques)
+Analyse de données de survie sur cancer du sein avec R
